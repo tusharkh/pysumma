@@ -1,0 +1,7 @@
+,precipitation,temperature,soil_moisture,latent_heat,sensible_heat,shortwave
+precipitation,3.77328995293,0,0,0,0,0
+temperature,0,3.20470366609,0,0,0,0
+soil_moisture,0,0,4.66757675827,0,0,0
+latent_heat,0,0,0,6.77501952549,0,0
+sensible_heat,0,0,0,0,6.90305140603,0
+shortwave,0,0,0,0,0,7.02618870164
